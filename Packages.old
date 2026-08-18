@@ -1,0 +1,61 @@
+Package: com.booleanmagic.displayrecorder
+Version: 1.3.22~beta1
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Installed-Size: 2492
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Filename: ./cydiastore_com.booleanmagic.displayrecorder_v1.3.22~beta1.deb
+Size: 914570
+MD5sum: c337781a37e78e81958869803fa1095b
+SHA1: b22f79cbacbda918f02152786aa96650b86b38a0
+SHA256: 8115a5c0d537d5a0d59c121d28f113504058663910c3828a9c31905df6ad0897
+Section: System
+Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+Dev: rpetrich
+Name: Display Recorder
+Website: http://rpetri.ch/cydia/displayrecorder/
+
+Package: com.hackyouriphone.springtomize2
+Version: 1.4.5-1
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
+Conflicts: com.filippobiga.springtomize
+Filename: ./com.hackyouriphone.springtomize2_1.4.5-1_iphoneos-arm.deb
+Size: 251858
+MD5sum: 8de4597a950d91074868e86e7d2c789a
+SHA1: 78f0fc51399e449ab37bf0d48531e50a8c9fa30a
+SHA256: c5b8ab3a990107a1a95676f5d71a65a09f30a16369a1394ebbc61d8dc61a7c1f
+Section: HYI - Tweaks
+Description: SpringBoard, the way you want it. All over again.
+Author: FilippoBiga <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize2
+Name: Springtomize 2 - iOS 5 & 6
+
+Package: org.thebigboss.graviboard
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 452
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator, preferenceloader (>= 1.2), libbox2d
+Conflicts: com.conradkramer.graviboard
+Replaces: com.conradkramer.graviboard
+Filename: ./org.thebigboss.graviboard_2.1.1-1_iphoneos-arm.deb
+Size: 188646
+MD5sum: d960ab97c251214b1c977f0e31a856e0
+SHA1: 789c4fc7743143f9411b9fa9a2a576a2d7a49e74
+SHA256: 08e38bcaf2e0bc033a81acd70383b654e68f36b166555ed590e1b376077c1bc4
+Section: Tweaks
+Homepage: http://kramerapps.com/cydia/graviboard/
+Description: Adds gravity to SpringBoard!
+Tag: cydia::commercial, purpose::extension
+Author: Conrad Kramer <support@kramerapps.com>
+Depiction: http://kramerapps.com/cydia/graviboard/
+Dev: conradkramer
+Icon: file:///Library/PreferenceBundles/GraviboardSettings.bundle/Graviboard@2x.png
+Name: Graviboard
+Sponsor: thebigboss.org <http://thebigboss.org>
+
