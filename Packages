@@ -11,7 +11,6 @@ SHA1: b22f79cbacbda918f02152786aa96650b86b38a0
 SHA256: 8115a5c0d537d5a0d59c121d28f113504058663910c3828a9c31905df6ad0897
 Section: System
 Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
-Tag: cydia::commercial
 Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
 Depiction: http://rpetri.ch/cydia/displayrecorder/
 Dev: rpetrich
@@ -51,7 +50,7 @@ SHA256: 08e38bcaf2e0bc033a81acd70383b654e68f36b166555ed590e1b376077c1bc4
 Section: Tweaks
 Homepage: http://kramerapps.com/cydia/graviboard/
 Description: Adds gravity to SpringBoard!
-Tag: cydia::commercial, purpose::extension
+Tag: purpose::extension
 Author: Conrad Kramer <support@kramerapps.com>
 Depiction: http://kramerapps.com/cydia/graviboard/
 Dev: conradkramer
