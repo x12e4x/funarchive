@@ -1,0 +1,24 @@
+Package: org.thebigboss.graviboard
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 452
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator, preferenceloader (>= 1.2), libbox2d
+Conflicts: com.conradkramer.graviboard
+Replaces: com.conradkramer.graviboard
+Filename: ./graviboard.deb
+Size: 118770
+MD5sum: d5f99db4dee07927ceadf118fc64dc49
+SHA1: b04793fdc0d7f6e30bf36ebb5e0d45cf08704525
+SHA256: 96eb71f7901a83b2c3ce25c3066965c7e2c78ec72a4504a82328c3546bb726ba
+Section: Tweaks
+Homepage: http://kramerapps.com/cydia/graviboard/
+Description: Adds gravity to SpringBoard!
+Tag: cydia::commercial, purpose::extension
+Author: Conrad Kramer <support@kramerapps.com>
+Depiction: http://kramerapps.com/cydia/graviboard/
+Dev: conradkramer
+Icon: file:///Library/PreferenceBundles/GraviboardSettings.bundle/Graviboard@2x.png
+Name: Graviboard
+Sponsor: thebigboss.org <http://thebigboss.org>
+

@@ -1,0 +1,26 @@
+Origin: Preloading's Repo
+Label: Preloading's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repo for me to put my tweaks and such.
+MD5Sum:
+ a9918b11a52033e96d785f151ce5c457 934 Packages
+ 1a798a1516880e0b2e86a7a01bc14ba2 577 Packages.gz
+ 1789291d9a66cc2a50fd3d7f3247ab3f 636 Packages.bz2
+ 30992f0813c3f6665116fed58a19a9fa 656 Packages.xz
+ 5f009f9607c9cec8ea96aa0911a6abae 575 Packages.zst
+SHA1:
+ c5911ad07394bdf1d7d218542cba31e33d29e476 934 Packages
+ bb016b1066e350b3295f0e4de220a905a8c89773 577 Packages.gz
+ a3a2a299f8b158cb52c40a31c6ef8f8ca06f9a9d 636 Packages.bz2
+ 18dc35d59e68560d8a84b1d2c3e9872ef8f04c79 656 Packages.xz
+ 1d3a077276f9fa702224da23da17758a47f314e3 575 Packages.zst
+SHA256:
+ 61e148cb2e6d6eece856913ea7cf15c2f751d3f9aebf560093fd85960928e2a0 934 Packages
+ 20f98e5603b298339aaba7e2d30b34d3601792ea93fe754293481282a9734208 577 Packages.gz
+ c3a03ebb06fbf2438a749b34d1b1704c5db8f6a21eb252dea8c9eaa7cfa2392d 636 Packages.bz2
+ eaaa0f6c6d914ab337c9b0ea4c46503907aa935b19e500588cbff94a59e38aa7 656 Packages.xz
+ bb159f3792f1b02943884725d357ac4b2d32a9de71dd3c02fedeb991334dc472 575 Packages.zst
